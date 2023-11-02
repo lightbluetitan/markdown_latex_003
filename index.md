@@ -23,13 +23,6 @@ lang: "es-ES"
 \pagebreak 
 
 
-<a name="arriba"></a>
-
-<a href="#abajo">Ir Abajo</a>
-
-
-
-
 <!-- Crear documentos reproducibles con Markdown -->
 
 ## Sintaxis Markdown
@@ -292,10 +285,6 @@ SELECT * FROM Products;
 
 [^pie_pagina_01]: **RMarkdown es un paquete (package) del lenguaje de programación R, que nos permite crear documentos reproducibles en formatos tales como HTML,PDF, Microsoft Word entre otros. **
 
-
-<a name="abajo"></a>
-
-<a href="#arriba">Ir Arriba</a>
 
 
 ## Contacto
